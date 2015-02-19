@@ -5,7 +5,7 @@ import java.lang.Math;
 public class roll {
 	public static void main(String[] args) {
 		int num[] = new int[10];
-		for(int i = 0; i < 8; i ++)
+		for(int i = 0; i < 6; i ++)
 		{
 			num[i] = randInt(2, 267);
 		}
